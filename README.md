@@ -35,7 +35,19 @@ All hackathon guides are located in the [`Documents/`](Documents/) folder. Here'
 | [Goal 3](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%203.pdf) | Third hackathon challenge |
 | [Goal 4](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%204.pdf) | Fourth hackathon challenge |
 
-> **Tip:** See the [Documents README](Documents/README.md) for a detailed guide to navigating the documentation.
+### Databricks Hackathon
+
+| Document | Description |
+|----------|-------------|
+| [Goal 1](Documents/Databricks/Databricks%20-%20Goal%201.md) | Ingest SQL → ADLS Gen2 (Parquet) using PySpark |
+| [Goal 2](Documents/Databricks/Databricks%20-%20Goal%202.md) | Register Data in Unity Catalog |
+| [Goal 3](Documents/Databricks/Databricks%20-%20Goal%203.md) | Analyze Using SQL |
+| [Goal 4](Documents/Databricks/Databricks%20-%20Goal%204.md) | Build Curated Tables (Silver & Gold) |
+| [Goal 5](Documents/Databricks/Databricks%20-%20Goal%205.md) | Add AI Agent Layer (Natural Language Data Access) |
+| [Goal 6](Documents/Databricks/Databricks%20-%20Goal%206.md) | Mirror to Microsoft Fabric |
+| [Goal 7](Documents/Databricks/Databricks%20-%20Goal%207.md) | Model the Data & Build a Report / Dashboard |
+
+> **Tip:** See the [Documents README](Documents/README.md) for a detailed guide to navigating the documentation, or the [Databricks README](Documents/Databricks/README.md) for Databricks-specific goals.
 
 ---
 
