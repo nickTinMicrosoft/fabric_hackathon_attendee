@@ -1,3 +1,8 @@
+---
+layout: page
+title: Databricks Goal 6
+---
+
 GOAL 6 — Mirror to Microsoft Fabric
 🎯 What Users Are Doing
 They expose the same lake data to Microsoft Fabric for Power BI and Real-Time Intelligence.

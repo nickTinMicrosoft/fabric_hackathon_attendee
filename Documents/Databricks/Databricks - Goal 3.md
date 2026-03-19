@@ -1,3 +1,8 @@
+---
+layout: page
+title: Databricks Goal 3
+---
+
 GOAL 3 — Analyze Using SQL
 🎯 What Users Are Doing
 Business users query curated lake data using standard SQL.

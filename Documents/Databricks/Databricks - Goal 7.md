@@ -1,3 +1,8 @@
+---
+layout: page
+title: Databricks Goal 7
+---
+
 Model the Data & Build a Report / Dashboard 1 hour
 
 Now that your data is ingested, transformed, and enriched with Azure AI, it’s time to pull it all together and tell the story.
