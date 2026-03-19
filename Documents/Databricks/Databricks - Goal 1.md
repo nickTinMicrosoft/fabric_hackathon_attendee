@@ -1,3 +1,8 @@
+---
+layout: page
+title: Databricks Goal 1
+---
+
 GOAL 1 — Ingest SQL → ADLS Gen2 (Parquet) using PySpark
 🎯 What Users Are Doing
 Users are extracting structured enterprise data from SQL systems and landing it in a scalable cloud data lake.

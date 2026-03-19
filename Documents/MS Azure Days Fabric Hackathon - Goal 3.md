@@ -1,3 +1,8 @@
+---
+layout: page
+title: Goal 3 - Use Azure AI to Discover Intelligence in the Data
+---
+
 # Use Azure AI to Discover Intelligence in the Data (1 hour)
 
 In this part of the hackathon, use Azure AI to uncover insights, patterns, or predictions from the data you ingested and transformed.

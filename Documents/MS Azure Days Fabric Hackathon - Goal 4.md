@@ -1,3 +1,8 @@
+---
+layout: page
+title: Goal 4 - Model the Data and Build a Report or Dashboard
+---
+
 # Model the Data and Build a Report or Dashboard (1 hour)
 
 Now that your data is ingested, transformed, and enriched with Azure AI, it is time to pull it all together and tell the story.

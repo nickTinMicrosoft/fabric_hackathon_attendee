@@ -1,3 +1,8 @@
+---
+layout: page
+title: Goal 2 - Transform Your Ingested Data for Analytics
+---
+
 # Transform Your Ingested Data for Analytics (2 hours)
 
 Once your data is in Fabric, you have multiple options to shape it into something useful. Pick the approach that best fits your workflow or challenge.

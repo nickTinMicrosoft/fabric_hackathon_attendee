@@ -1,3 +1,8 @@
+---
+layout: page
+title: Goal 1 - Ingest Data from Two Sources
+---
+
 # Ingest Data from Two Sources 2 hours
 
 In this part of the hackathon, you’ll pull data from two different sources into your Fabric workspace. Pick any sources you want — the goal is just to get data moving.
