@@ -1,3 +1,8 @@
+---
+layout: page
+title: Databricks Goal 5
+---
+
 🤖 GOAL 5 — Add AI Agent Layer (Natural Language Data Access)
 Now we make it intelligent.
 

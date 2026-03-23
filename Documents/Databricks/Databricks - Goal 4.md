@@ -1,3 +1,8 @@
+---
+layout: page
+title: Databricks Goal 4
+---
+
 GOAL 4 — Build Curated Tables (Silver & Gold)
 🎯 What Users Are Doing
 They clean, normalize, and aggregate raw data into business-ready tables.

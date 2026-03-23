@@ -1,3 +1,8 @@
+---
+layout: page
+title: Databricks Goal 2
+---
+
 GOAL 2 — Register Data in Unity Catalog
 🎯 What Users Are Doing
 Users register cloud storage data into a governed metastore.

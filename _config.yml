@@ -1,0 +1,15 @@
+title: MS Azure Days Fabric Hackathon
+description: Guides and goals for the Microsoft Fabric Hackathon
+url: https://nicktinmicrosoft.github.io
+baseurl: /fabric_hackathon_attendee
+theme: minima
+markdown: kramdown
+
+# Keep generated outputs out of the published site.
+exclude:
+  - .gitignore
+  - .vscode/
+  - pdf/
+  - Videos/
+  - old_versions/
+  - Documents/old_versions/
